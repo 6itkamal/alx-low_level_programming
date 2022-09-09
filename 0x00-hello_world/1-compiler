@@ -1,2 +1,2 @@
 #!/bin/bash
-export cc -f CFILE=main.o
+cc -f $CFILE -o main.o

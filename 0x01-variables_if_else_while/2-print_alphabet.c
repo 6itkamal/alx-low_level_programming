@@ -9,14 +9,10 @@
  */
 int main(void)
 {
-	int n;
 
-	srand(time(0));
-	n = rand() - RAND_MAX / 2;
+	char low;
 
-	char ch = 'a';
-
-	for (ch = 'a'; ch <= 'z'; ch++)
+	for (low = 'a'; low <= 'z'; low++)
 		putchar(0);
 	return (0);
 }

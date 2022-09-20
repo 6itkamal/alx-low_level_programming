@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * *_strcpy - copy paste string
+ * _strcpy - Copy paste string
  * @dest: destination
  * @src: source
  *
